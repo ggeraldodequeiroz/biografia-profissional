@@ -9,4 +9,9 @@ p {
 
 li {
     font-size: 22px;
+    font-weight: normal;
+}
+
+.descricao {
+    list-style: none;
 }
